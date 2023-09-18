@@ -1,0 +1,77 @@
+{
+    "players": [
+      {
+        "jersey_no": 10,
+        "name": "Afif hossain",
+        "age": 33,
+        "country": "Bangladesh",
+        "salary": 3000,
+        "img": "https://i.ibb.co/DpvpBcG/Afif-Hossain.webp"
+      },
+      {
+        "jersey_no": 7,
+        "name": "Liton Dash",
+        "age": 32,
+        "country": "Bangladesh",
+        "salary": 2500, 
+        "img": "https://i.ibb.co/x3BSQPq/Litton-Das.webp "
+      },
+      {
+        "jersey_no": 18,
+        "name": "Mashrafe Bin Mortaza",
+        "age": 31,
+        "country": "Bangladesh",
+        "salary": 7200,
+        "img": " https://i.ibb.co/N9ZJssN/mashrafe-mortaza.webp"
+      },
+      {
+        "jersey_no": 45,
+        "name": "Mehidy Hasan Miraz",
+        "age": 30,
+        "country": "Bangladesh",
+        "sala":  2800,
+        "img": " https://i.ibb.co/TgPmxKd/Mehidy-Hasan-Miraz.webp"
+      },
+      {
+        "jersey_no": 20,
+        "name": "Mustafizur rahman",
+        "age": 26,
+        "country": "Bangladesh",
+        "salary": 1500,
+        "img": " https://i.ibb.co/ChzpL9C/Mustafizur-Rahman.webp"
+      },
+      {
+        "jersey_no": 11,
+        "name": "Najmul hossain Shanto",
+        "age": 37,
+        "country": "Bangladesh",
+        "salary": 1200,
+        "img": " https://i.ibb.co/z8yT6kw/Najmul-Hossain-Shanto.webp"
+      },
+      {
+        "jersey_no": 3,
+        "name": "Shakib al Hasan",
+        "age": 44,
+        "country": "Bangladesh",
+        "salary":  9000,
+        "img": " https://i.ibb.co/Yt9y8ZH/Shakib-Al-Hasan.webp"
+      },
+      {
+        "jersey_no": 88,
+        "name": "Tamim Iqbal",
+        "age": 37,
+        "country": "Bangladesh",
+        "salary": 6000,
+        "img": " https://i.ibb.co/Y7Wqxsg/Tamim-Iqbal.webp"
+      },
+      {
+        "jersey_no": 30,
+        "name": "Towhid Hridoy",
+        "age": 23,
+        "country": "Bangladesh",
+        "salary": 9000,
+        "img": " https://i.ibb.co/nQ7k9Tp/Towhid-Hridoy.webp"
+      }
+    ]
+  }
+  
